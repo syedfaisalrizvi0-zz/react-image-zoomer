@@ -1,6 +1,6 @@
 {
   "name": "react-img-zoomer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react component to zoom the images",
   "main": "dist/index.cjs.js",
   "peerDependencies": {
@@ -14,7 +14,7 @@
     "react",
     "image",
     "zoom"
-],
+  ],
   "scripts": {
     "build": "rollup -c"
   },
@@ -30,8 +30,8 @@
     "rollup-plugin-styles": "^3.14.1"
   },
   "author": {
-    "name":"Syed Faisal Rizvi",
-    "email":"syedfaisalrizvi0@gmail.com",
-    "url":"https://github.com/syedfaisalrizvi0/"
+    "name": "Syed Faisal Rizvi",
+    "email": "syedfaisalrizvi0@gmail.com",
+    "url": "https://github.com/syedfaisalrizvi0/"
   }
 }
