@@ -9,7 +9,7 @@ react-img-zoomer is a simple and lightwaight component to create a zoom your ima
 
 
 
-[![Open in Github](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?logo=github)](https://github.com/syedfaisalrizvi0/react-image-zoomer)]
+[![Open in Github](https://img.shields.io/badge/Open%20in-GitHub-blue?logo=github)](https://github.com/syedfaisalrizvi0/react-image-zoomer)]
 
 ## Installation
 
