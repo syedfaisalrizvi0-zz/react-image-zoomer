@@ -1,4 +1,4 @@
-import ImageZoom from  './imageZoom.jsx'
+import Mangnifier from  './imageZoom.jsx'
 
 const returnLibrary = () => {
     return {

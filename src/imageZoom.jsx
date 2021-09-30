@@ -1,6 +1,6 @@
 import React ,{ useRef , useState } from "react";
 var timer  = null;
-export default function  ImageZoom(props){
+export default function Mangnifier(props){
     const zoom  = props.zoom ? props.zoom : 3; 
     const imgEl = useRef(null);
     const overlayEl =  useRef(null);
