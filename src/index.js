@@ -2,7 +2,7 @@ import ImageZoom from  './imageZoom.jsx'
 
 const returnLibrary = () => {
     return {
-        ImageZoom
+        Mangnifier
         // you can add here other components that you want to export
     }
 }
